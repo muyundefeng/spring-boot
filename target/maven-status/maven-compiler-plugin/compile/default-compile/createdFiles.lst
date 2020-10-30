@@ -1,0 +1,6 @@
+com\test\entity\UserDO.class
+com\test\main\App.class
+com\test\dao\UserPasswordDOMapper.class
+com\test\dao\UserDOMapper.class
+com\test\entity\UserPasswordDO.class
+com\test\controller\Home.class
